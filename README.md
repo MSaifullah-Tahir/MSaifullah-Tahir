@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MSaifullah-Tahir
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning in Computer Science's degree. 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Greetings! My username is @MSaifullah-Tahir and I am currently an associate in Flutter development at ALestra Solutions Pvt(ltd).
+- 👀 My expertise lies in creating mobile apps using Flutter.
+- 🌱 Presently, I am dedicatedly learning and upgrading my skills in Flutter while simultaneously completing various projects.
+- 💞 am eager to collaborate on Flutter-based app development.
 - 📫 How to reach me ...
 
 <!---
