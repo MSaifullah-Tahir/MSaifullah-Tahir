@@ -14,3 +14,7 @@
 - **Web-Ready Flutter:** Experienced in using Flutter Web to create admin panels and extend functionality beyond mobile platforms.
 - **Theming Expert:** Skilled in implementing light and dark themes for a more user-friendly and customizable experience.
 - **Lifelong Learner:** Passionate about expanding my knowledge and keeping up with new developments in Flutter and related technologies.
+
+**Skills and Technologies**
+
+FlutterFirebase
