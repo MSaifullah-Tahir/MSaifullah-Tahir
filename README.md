@@ -17,4 +17,5 @@
 
 **Skills and Technologies**
 
-Flutter Firebase
+Flutter
+
