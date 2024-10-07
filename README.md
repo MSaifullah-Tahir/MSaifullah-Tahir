@@ -5,4 +5,12 @@
   
 **Skills:**
 
-- Flutter Expert: Expert in essential concepts such as state management, navigation, and UI/UX principles, creating efficient and visually appealing user interfaces.
+- **Flutter Expert:** Expert in essential concepts such as state management, navigation, and UI/UX principles, creating efficient and visually appealing user interfaces.
+- **Widget Pro:** Skilled in designing custom widgets for reuse and maintainability, ensuring clean and well-structured code.
+- **Package Expert:** Proficient in leveraging Flutter packages to boost development speed and enhance app functionality.
+- **Third-Party Integrations:** Experienced in integrating external libraries to add powerful features and improve app capabilities.
+- **Localization Support:** Capable of building multilingual apps to reach a diverse global audience with support for various locales.
+- **Firebase Integration:** Utilize Firebase for scalable, secure backend services, enhancing your app’s reliability and performance.
+- **Web-Ready Flutter:** Experienced in using Flutter Web to create admin panels and extend functionality beyond mobile platforms.
+- **Theming Expert:** Skilled in implementing light and dark themes for a more user-friendly and customizable experience.
+- **Lifelong Learner:** Passionate about expanding my knowledge and keeping up with new developments in Flutter and related technologies.
