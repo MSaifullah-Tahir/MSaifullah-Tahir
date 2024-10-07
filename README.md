@@ -5,4 +5,4 @@
   
 **Skills:**
 
-. Flutter Expert: Expert in essential concepts such as state management, navigation, and UI/UX principles, creating efficient and visually appealing user interfaces.
+- Flutter Expert: Expert in essential concepts such as state management, navigation, and UI/UX principles, creating efficient and visually appealing user interfaces.
