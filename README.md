@@ -1,10 +1,6 @@
-- 👋 Greetings! My username is @MSaifullah-Tahir and I am currently an associate in Flutter development at ALestra Solutions Pvt(ltd).
+- 👋 Greetings! I'm M. Saifullah Tahir, a skilled Flutter developer currently working at ALestra Solutions Pvt. Ltd.. With a strong foundation in cross-platform mobile app development, I specialize in creating high-performance, responsive applications for Android and iOS using Flutter.
 - 👀 My expertise lies in creating mobile apps using Flutter.
 - 🌱 Presently, I am dedicatedly learning and upgrading my skills in Flutter while simultaneously completing various projects.
 - 💞 am eager to collaborate on Flutter-based app development.
-- 📫 How to reach me ...
-
-<!---
-MSaifullah-Tahir/MSaifullah-Tahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+**Skills:**
