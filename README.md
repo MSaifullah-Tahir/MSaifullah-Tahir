@@ -1,6 +1,6 @@
 # 👋 Greetings! I'm M. Saifullah Tahir
 
-I'm a skilled **Flutter Developer** currently working at **ALestra Solutions Pvt. Ltd.** With a strong foundation in cross-platform mobile app development, I focus on delivering **high-performance, responsive applications** for both **Android and iOS** using Flutter.
+I'm a skilled **Flutter Developer** currently working at **Alestra Solutions Pvt. Ltd.** With a strong foundation in cross-platform mobile app development, I focus on delivering **high-performance, responsive applications** for both **Android and iOS** using Flutter.
 
 ## 👀 About Me
 
@@ -11,7 +11,7 @@ I'm a skilled **Flutter Developer** currently working at **ALestra Solutions Pvt
 ## 💼 Skills & Expertise
 
 ### 🚀 **Flutter Development**
-- **State Management:** Expertise in **GetX, Provider, Riverpod, and BLoC** for managing app state efficiently.
+- **State Management:** Expertise in **GetX** for managing app state efficiently.
 - **Custom Widgets:** Skilled in designing reusable, maintainable, and modular widgets.
 - **Navigation & Routing:** Proficient in implementing **complex navigation structures** for seamless user flow.
 - **Theming:** Experienced in implementing **light and dark themes** for enhanced UX.
