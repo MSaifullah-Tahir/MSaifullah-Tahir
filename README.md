@@ -1,44 +1,83 @@
-# 👋 Greetings! I'm M. Saifullah Tahir
+# Hi, I'm Saifullah Tahir 👋
 
-I'm a skilled **Flutter Developer** currently working at **Alestra Solutions Pvt. Ltd.** With a strong foundation in cross-platform mobile app development, I focus on delivering **high-performance, responsive applications** for both **Android and iOS** using Flutter.
+### Flutter Developer | Android, iOS & Flutter Web
 
-## 👀 About Me
+I’m a Flutter developer with 3+ years of professional experience building mobile applications and connected web admin panels. Currently working at Nexar Solutions, I develop applications using Flutter, Dart, GetX, Firebase, and REST APIs, with experience integrating AI services, real-time messaging, maps, and payment gateways.
 
-- 🔹 Passionate about **building scalable and efficient mobile applications**.
-- 🔹 Dedicated to **continuous learning** and improving Flutter development skills.
-- 🔹 Enthusiastic about **collaborating on innovative projects** to create exceptional user experiences.
+[Portfolio](https://msaifullah-tahir.github.io/) · [Resume](https://msaifullah-tahir.github.io/assets/cv/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/msaifullahtahir/) · [Email](mailto:saifullahtahirkiyani@gmail.com)
 
-## 💼 Skills & Expertise
+## What I Build
 
-### 🚀 **Flutter Development**
-- **State Management:** Expertise in **GetX** for managing app state efficiently.
-- **Custom Widgets:** Skilled in designing reusable, maintainable, and modular widgets.
-- **Navigation & Routing:** Proficient in implementing **complex navigation structures** for seamless user flow.
-- **Theming:** Experienced in implementing **light and dark themes** for enhanced UX.
+- 🔹 Cross-platform mobile applications for Android and iOS.
+- 🔹 Flutter Web admin panels connected to shared Firebase backends.
+- 🔹 Real-time chat, booking workflows, and location-based discovery.
+- 🔹 AI-powered features through Gemini and custom REST/WebSocket APIs.
+- 🔹 Reusable widgets, reactive interfaces, and multilingual applications.
+- 🔹 Cross-platform mobile applications for Android and iOS.
 
-### 📲 **App Features & Integrations**
-- **Third-Party Integrations:** Implementing APIs, payment gateways, maps, and social authentication.
-- **Firebase Services:** Integration of **Firestore, Firebase Auth, Cloud Messaging, and Realtime Database**.
-- **Localization & Accessibility:** Developing multilingual apps for a **global audience**.
-- **Flutter Web & Admin Panels:** Extending applications beyond mobile with **Flutter Web solutions**.
+## Technical Skills
 
-### 🔧 **Tools & Technologies**
-- **Dart | Flutter | Firebase | REST APIs | GraphQL**
-- **Git & GitHub | CI/CD | Agile Development**
-- **UI/UX Principles | Responsive Design | Material Design 3**
+| Area | Technologies |
+| --- | --- |
+| Mobile & Web | Flutter, Dart, Flutter Web |
+| State Management | GetX |
+| Backend & Data | Firebase Authentication, Cloud Firestore, Firebase Storage, Cloud Functions |
+| APIs & Real-Time | REST APIs, WebSocket, Firebase Cloud Messaging |
+| AI Integrations | Google Gemini, streaming AI chat and voice APIs |
+| Payments & Maps | Paystack, Razorpay, Google Maps |
+| Device Features | Biometric authentication, secure storage, camera, audio recording, barcode scanning, pedometer |
+| Tools | Git, GitHub, Android Studio, Postman |
 
-## 📌 Projects & Contributions
+## Selected Projects
 
-I have developed and contributed to various **Flutter applications**, including:
-- 🛍️ **E-commerce Apps** with product listings, cart, checkout, and payment integration.
-- 🚗 **Car Rental & Booking Apps** for seamless vehicle reservations.
-- 🏠 **Real Estate Apps** with interactive property listings and search functionality.
-- 📱 **Social Media & Messaging Apps** with real-time chat and user engagement features.
+### Skill Connect — Service Marketplace
 
-## 📫 Connect With Me
+A mobile application for customers and service providers, with a separate Flutter Web admin portal connected through Firebase.
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/msaifullahtahir/
-- 📧 **Email:** saifullahtahirkiyani@gmail.com
+- Location-based provider discovery, booking management, ratings, and multimedia chat.
+- Equipment financing with six-month installments and Paystack transaction initialization and verification through Cloud Functions.
+- Administrative workflows for equipment approvals, inventory, service categories, and legal content.
 
-Let's collaborate and build something amazing with Flutter! 🚀
+### DentaCare — Dental Tourism App
+
+A Flutter application connecting international patients with dental clinics in Albania.
+
+- AI concierge with streaming WebSocket chat and real-time voice interactions.
+- Dental assessment forms, document uploads, appointment booking, and treatment timeline tracking.
+- Push notifications, biometric authentication, and signed-URL uploads to Google Cloud Storage.
+
+### Prime Physique — Fitness & Nutrition Platform
+
+A fitness mobile application and separate Flutter Web portal for coaches and administrators.
+
+- Workout tracking with rep- and RPE-based weight progression calculations.
+- Food search and barcode scanning through Open Food Facts, step tracking, and multimedia journals.
+- Coach-managed workout and meal plans, client progress inspection, and two-way support chat.
+- English and German localization.
+
+### AI Resume Builder — Personal Product
+
+A Flutter application for creating, customizing, and exporting resumes.
+
+- Gemini-powered summaries, experience bullet points, tailored cover letters, and resume-to-job-description analysis.
+- Resume editing with Firestore auto-save and customizable template previews.
+- PDF and text export, native sharing, and printing.
+
+### Buying & Selling — Marketplace App
+
+A Flutter and Firebase marketplace for clothing, perfumes, and other consumer products.
+
+- Seller-managed listings, product photos, prices, and orders.
+- Buyer browsing, search, filters, saved products, chat, offers, and cart.
+- Payment integration work included Razorpay and Paystack; final checkout remained pending the client’s gateway selection.
+
+Explore project details on my [portfolio](https://msaifullah-tahir.github.io/).
+
+## Let's Connect
+
+Based in **Rawalpindi, Pakistan**, and open to Flutter development opportunities across remote, hybrid, and on-site roles, as well as freelance projects.
+
+- **Email:** [saifullahtahirkiyani@gmail.com](mailto:saifullahtahirkiyani@gmail.com)
+- **LinkedIn:** [msaifullahtahir](https://www.linkedin.com/in/msaifullahtahir/)
+- **Portfolio:** [msaifullah-tahir.github.io](https://msaifullah-tahir.github.io/)
 
